@@ -20,15 +20,20 @@ In this image, the 27 is the amount of calls that occured in the most recent day
 
 
 
+### Satisfaction Rate
+
+
+
 
 ### Resolution Rate for Current Month:
 <img width="440" alt="Resolution Rate for Current Month" src="https://github.com/user-attachments/assets/68665c8e-3811-44d8-aee7-72a832946a39">
 
 Here, the 70.47% is the overall resolution rate for all the employees in the past month. To get this number I used a calulated field that divided the total number of resolved calls by the total number of calls.
 
+<img width="554" alt="Screenshot 2024-09-01 at 10 53 14 AM" src="https://github.com/user-attachments/assets/44be98f6-40cb-4d48-b4c9-9d18301010a8">
 
 
-### Satisfaction Rate
+
 
 
 
