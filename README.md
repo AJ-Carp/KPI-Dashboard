@@ -22,3 +22,11 @@ In this image, the 27 is the amount of calls that occured in the most recent day
 
 
 
+
+### Satisfaction Rate
+
+
+
+
+
+
