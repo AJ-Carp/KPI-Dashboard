@@ -8,7 +8,17 @@ Imagine the manager of the IT help-desk department came to you and requested a d
 This bar chart is showing the average amount calls per day of the week. Notice in the filters section it says "Most Recent Month". This is limiting my graph to only collect data from the most recent month.
 
 
+
 ### Calls Per Day:
 <img width="465" alt="Calls Per Day" src="https://github.com/user-attachments/assets/c7e6ee2e-4a84-400f-8c6e-9255e4d76650">
 
 In this image, the 27 is the amount of calls that occured in the most recent day and the 3.896 is the average lenth in minutes of each call.
+
+
+
+### Resolution Rate for Current Month:
+<img width="440" alt="Resolution Rate for Current Month" src="https://github.com/user-attachments/assets/68665c8e-3811-44d8-aee7-72a832946a39">
+
+
+
+
