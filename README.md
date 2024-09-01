@@ -7,7 +7,7 @@ Imagine the manager of the IT help-desk department came to you and requested a d
 ### Call Volume During Week:
 <img width="887" alt="Call Volume during week" src="https://github.com/user-attachments/assets/3658b77a-1c75-4730-8e62-6b80f37b41f0">
 
-This bar chart is showing the average amount of calls per day of the week in the most recent month. Notice in the filters section it says "Most Recent Month: True". You will see this filter is applied to most of my sheets. To make this filter, I used the calculated field shown below.
+This bar chart is showing the average amount of calls per day of the week in the most recent month. Notice in the filters section it says "Most Recent Month: True". This limits my charts to only collecting data from the most recent month and you will see this filter is applied to most of my sheets. To make this filter, I used the calculated field shown below.
 
 <img width="481" alt="Most Recent Month" src="https://github.com/user-attachments/assets/26303102-5be6-46ff-96aa-dd77832942c5">
 
