@@ -14,7 +14,10 @@ This bar chart is showing the average amount calls per day of the week in the cu
 ### Calls Per Day:
 <img width="465" alt="Calls Per Day" src="https://github.com/user-attachments/assets/c7e6ee2e-4a84-400f-8c6e-9255e4d76650">
 
-In this image, the 27 is the amount of calls that occured in the most recent day and the 3.896 is the average lenth in minutes of each call.
+In this image, the 27 is the amount of calls that occured in the most recent day and the 3.896 is the average lenth in minutes of each call. I used a filter to only collect data on the most recent day and used the very similar calculated field shown below to make this possible.
+
+<img width="481" alt="Most Recent Day" src="https://github.com/user-attachments/assets/8431ff61-7ae0-48b5-8ba4-6a1f3887f036">
+
 
 
 
