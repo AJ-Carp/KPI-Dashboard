@@ -39,21 +39,21 @@ Here, the 70.47% is the overall resolution rate for all the employees in the mos
 
 <img width="554" alt="Screenshot 2024-09-01 at 10 53 14 AM" src="https://github.com/user-attachments/assets/44be98f6-40cb-4d48-b4c9-9d18301010a8">
 
-### Resolution Rates Per Employee:
+### Resolution Rates For Each Employee:
 <img width="457" alt="Resolution Rate" src="https://github.com/user-attachments/assets/e85f22bf-265d-4ee9-8c97-8088b430bf90">
 
 In the table above, you can see each employees resolution rates in the most recent month. The ones highlighted in blue are the lower performing employees. The same calculated field used to find the overall resolution rate was also used here. Except it now it's broken up by employee. 
 
 
 
-### Resolved Calls:
+### Resolved Calls For Each Employee:
 <img width="466" alt="Resolved Calls" src="https://github.com/user-attachments/assets/0be0a9cc-60c2-4ca8-9139-ff461597bcb0">
 
 In this table, you can see the total number of resolved calls by each employee in the most recent month. The "Resolved: Y" filter was used to make sure the table dosnt include unresolved calls.
 
 
 
-### Speed of Answer:
+### Speed of Answer For Each Employee:
 <img width="466" alt="Speed of Answer" src="https://github.com/user-attachments/assets/78806c60-b71f-40b9-be98-0e0574ae206f">
 
 Finally, for each employee we have the median of how long it took them to pick up the phone in the most recent month.
