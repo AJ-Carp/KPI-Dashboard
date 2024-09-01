@@ -6,3 +6,7 @@ Imagine the manager of the IT help-desk department came to you and requested a d
 <img width="887" alt="Call Volume during week" src="https://github.com/user-attachments/assets/3658b77a-1c75-4730-8e62-6b80f37b41f0">
 
 This bar chart is showing the average amount calls per day of the week. Notice in the filters section it says "Most Recent Month". This is limiting my graph to only collect data from the most recent month.
+
+
+### Calls Per Day:
+<img width="465" alt="Calls Per Day" src="https://github.com/user-attachments/assets/c7e6ee2e-4a84-400f-8c6e-9255e4d76650">
