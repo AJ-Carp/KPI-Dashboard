@@ -10,3 +10,5 @@ This bar chart is showing the average amount calls per day of the week. Notice i
 
 ### Calls Per Day:
 <img width="465" alt="Calls Per Day" src="https://github.com/user-attachments/assets/c7e6ee2e-4a84-400f-8c6e-9255e4d76650">
+
+The 27 represents the average amount calls per day and the
