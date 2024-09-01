@@ -56,7 +56,7 @@ In this table, you can see the total number of resolved calls by each employee i
 ### Speed of Answer:
 <img width="466" alt="Speed of Answer" src="https://github.com/user-attachments/assets/78806c60-b71f-40b9-be98-0e0574ae206f">
 
-Finally, for each ermployee we have the median of how long it took them to pick up the phone in the most recent month.
+Finally, for each employee we have the median of how long it took them to pick up the phone in the most recent month.
 
 
 
