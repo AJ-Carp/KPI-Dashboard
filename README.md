@@ -20,7 +20,11 @@ In this image, the 27 is the amount of calls that occured in the most recent day
 
 
 
-### Satisfaction Rate
+### Satisfaction Rate:
+<img width="1013" alt="Satisfaction Rating" src="https://github.com/user-attachments/assets/88354b2f-2d54-41bc-bce0-969b0fbf5953">
+
+
+
 
 
 
