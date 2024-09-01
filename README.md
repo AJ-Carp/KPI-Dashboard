@@ -32,12 +32,18 @@ Here we see the average satisfaction ratings for the most recent month, 5 being 
 
 
 
-### Resolution Rate for Current Month:
+### Resolution Rate For Current Month:
 <img width="440" alt="Resolution Rate for Current Month" src="https://github.com/user-attachments/assets/68665c8e-3811-44d8-aee7-72a832946a39">
 
 Here, the 70.47% is the overall resolution rate for all the employees in the most recent month. To get this number I used a calulated field that divided the total number of resolved calls by the total number of calls.
 
 <img width="554" alt="Screenshot 2024-09-01 at 10 53 14 AM" src="https://github.com/user-attachments/assets/44be98f6-40cb-4d48-b4c9-9d18301010a8">
+
+### Resolution Rates Per Employee:
+<img width="457" alt="Resolution Rate" src="https://github.com/user-attachments/assets/e85f22bf-265d-4ee9-8c97-8088b430bf90">
+
+In the table above, you can see each employees resolution rates in the most recent month. The ones highlighted in blue are the lower performing employees. 
+
 
 
 
