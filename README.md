@@ -19,7 +19,7 @@ In this image, the 27 is the amount of calls that occured in the most recent day
 ### Resolution Rate for Current Month:
 <img width="440" alt="Resolution Rate for Current Month" src="https://github.com/user-attachments/assets/68665c8e-3811-44d8-aee7-72a832946a39">
 
-
+Here, the 70.47% is the overall resolution rate for all the employees. To get this number I used a calulated field that divided the total number of resolved calls by the total number of calls.
 
 
 
