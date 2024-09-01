@@ -28,6 +28,7 @@ In this image, the 27 is the amount of calls that occured in the most recent day
 
 ### Satisfaction Rate:
 <img width="1013" alt="Satisfaction Rating" src="https://github.com/user-attachments/assets/88354b2f-2d54-41bc-bce0-969b0fbf5953">
+Here we see the average satisfaction ratings for the most recent month, 5 being the highest rating and 1 being the lowest.
 
 
 
