@@ -42,7 +42,7 @@ Here, the 70.47% is the overall resolution rate for all the employees in the mos
 ### Resolution Rates Per Employee:
 <img width="457" alt="Resolution Rate" src="https://github.com/user-attachments/assets/e85f22bf-265d-4ee9-8c97-8088b430bf90">
 
-In the table above, you can see each employees resolution rates in the most recent month. The ones highlighted in blue are the lower performing employees. 
+In the table above, you can see each employees resolution rates in the most recent month. The ones highlighted in blue are the lower performing employees. The same calculated field used to find the overall resolution rate was used here as well except it was bropken up by employee. 
 
 
 
